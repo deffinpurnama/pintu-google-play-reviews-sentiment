@@ -1,8 +1,5 @@
 # Analisis Sentimen Ulasan Aplikasi PINTU (Google Play Store)
 
-![Pintu App Reviews Sentiment Analysis](https://via.placeholder.com/800x300?text=Visualisasi+Distribusi+Sentimen+PINTU)
-*Ganti placeholder ini dengan visualisasi kunci dari hasil sentimen Anda (misalnya, grafik batang distribusi sentimen Positif/Negatif/Netral, atau word cloud dari masing-masing kategori).*
-
 ## 📌 Deskripsi Proyek
 
 Proyek ini berfokus pada **analisis sentimen ulasan pengguna aplikasi PINTU** yang dikumpulkan langsung dari Google Play Store. Dalam lanskap investasi kripto yang dinamis di Indonesia, aplikasi seperti PINTU memainkan peran sentral. Memahami sentimen pengguna menjadi sangat krusial bagi pengembang, analis pasar, dan calon pengguna untuk mengevaluasi pengalaman, mengidentifikasi area peningkatan, dan memahami persepsi publik terhadap aplikasi.
