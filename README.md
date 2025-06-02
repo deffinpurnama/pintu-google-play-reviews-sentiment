@@ -47,8 +47,5 @@ Tiga algoritma klasifikasi Machine Learning telah diimplementasikan dan dibandin
 Setiap model dilatih pada data yang telah dipisahkan (training/testing) dan dievaluasi performanya.
 
 ### 5. Evaluasi dan Wawasan
-* Model dievaluasi menggunakan metrik standar klasifikasi seperti **Accuracy, Precision, Recall, dan F1-score**.
-* (Sebutkan secara spesifik model mana yang berkinerja terbaik dan mengapa, misal: "Model Random Forest menunjukkan akurasi terbaik sebesar X% dalam memprediksi sentimen.")
+* Model dievaluasi menggunakan metrik standar klasifikasi **Accuracy**.
 * Hasil analisis divisualisasikan untuk memberikan pemahaman yang jelas tentang distribusi sentimen dan tema-tema kunci yang muncul dalam ulasan.
-
-## 📂 Struktur Repositori
